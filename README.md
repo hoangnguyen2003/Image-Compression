@@ -3,7 +3,7 @@
 Original image | Compressed image
 :-------------:|:---------------:
 ![original image](Image.jpg) | ![compressed image](Compressed_Image.jpg)
-283 KB | 218 KB
+283 KB | 221 KB
 
 ## Instructions
 * Download and place ImageCompression.py in the same directory as the image file.
